@@ -2,7 +2,15 @@
 
 Examples of block diagrams, presentations and other practical STEM uses of LaTeX.
 
-## Build LaTeX document
+## Prereqs
+
+TeXStudio is recommended in general, via:
+
+* Windows: MikTeX
+* Linux: TeXLive
+* MacOS: BasicTeX
+
+## Build
 
 Typically compile `main.tex` to `main.pdf` via:
 ```sh
@@ -14,7 +22,7 @@ XeLaTeX is another compiler used for advanced LaTeX documents:
 xelatex main
 ```
 
-## Articles
+## Notes
 
-We have written numerous articles on 
-[effective use of LaTeX](https://www.scivision.co/category/#latex)
+We have written several articles on 
+[effective use of LaTeX](https://www.scivision.dev/categories/latex)
